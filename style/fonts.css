@@ -1,0 +1,110 @@
+@font-face {
+	font-family: 'jetwoobuilder-frontend-font';
+	src: url(fonts/jetwoobuilder-frontend-font.eot);
+	src: url(fonts/jetwoobuilder-frontend-font.eot?#iefix) format('embedded-opentype'),
+		 url(fonts/jetwoobuilder-frontend-font.otf) format('otf'),
+		 url(fonts/jetwoobuilder-frontend-font.svg#jetwoobuilder-frontend-font) format('svg'),
+		 url(fonts/jetwoobuilder-frontend-font.woff) format('woff'),
+		 url(fonts/jetwoobuilder-frontend-font.woff2) format('woff2'),
+		 url(fonts/jetwoobuilder-frontend-font.ttf) format('truetype');
+  }
+@font-face {
+	font-family: 'eicons';
+	src: url('fonts/eicons.eot');
+	src: url('fonts/eicons.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/eicons.svg#eicons') format('svg'),
+		 url('fonts/eicons.ttf') format('truetype'),
+		 url('fonts/eicons.woff') format('woff'),
+		 url('fonts/eicons.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+  }
+  @font-face {
+	font-family: 'FontAwesome5Brands-Regular';
+	src: url('fonts/FontAwesome5Brands-Regular.svg#FontAwesome5Brands-Regular') format('svg'),
+		 url('fonts/FontAwesome5Brands-Regular.ttf') format('truetype'),
+		 url('fonts/FontAwesome5Brands-Regular.woff') format('woff'),
+		 url('fonts/FontAwesome5Brands-Regular.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/FontAwesome5Brands-Regular.eot'),
+		 url('fonts/FontAwesome5Brands-Regular.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+  }
+  @font-face {
+	font-family: 'FontAwesome5Free-Solid';
+	src: url('fonts/FontAwesome5Free-Solid.svg#FontAwesome5Free-Solid') format('svg'),
+		 url('fonts/FontAwesome5Free-Solid.ttf') format('truetype'),
+		 url('fonts/FontAwesome5Free-Solid.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/FontAwesome5Free-Solid.eot'),
+		 url('fonts/FontAwesome5Free-Solid.woff') format('woff'),
+		 url('fonts/FontAwesome5Free-Solid.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+  }
+  @font-face {
+	font-family: 'FontAwesome5Free-Regular';
+	src: url('fonts/FontAwesome5Free-Regular.eot');
+	src: url('fonts/FontAwesome5Free-Regular.svg#FontAwesome5Free-Regular') format('svg'),
+		 url('fonts/FontAwesome5Free-Regular.ttf') format('truetype'),
+		 url('fonts/FontAwesome5Free-Regular.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/FontAwesome5Free-Regular.woff2') format('woff2'),
+		 url('fonts/FontAwesome5Free-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+  }
+  @font-face {
+	  font-family: 'OpenSans-Regular';
+	  src: url('fonts/OpenSans-Regular.svg#OpenSans-Regular') format('svg'),
+		  url('fonts/OpenSans-Regular.ttf') format('truetype'),
+		  url('fonts/open-sans-400.eot?#iefix') format('embedded-opentype'),
+		  url('fonts/OpenSans-Regular.woff') format('woff'),
+		  url('fonts/open-sans-400.eot'),
+		  url('fonts/open-sans-400.woff2') format('woff2');
+	  font-weight: normal;
+	  font-style: normal;
+  }
+  @font-face {
+	  font-family: 'Montserrat-Bold';
+	  src: url('fonts/Montserrat-Bold.eot');
+		  src: url('fonts/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+		  url('fonts/Montserrat-Bold.svg#Montserrat-Bold') format('svg'),
+		  url('fonts/Montserrat-Bold.ttf') format('truetype'),
+		  url('fonts/Montserrat-Bold.woff') format('woff'),
+		  url('fonts/Montserrat-Bold.woff2') format('woff2');
+	  font-weight: normal;
+	  font-style: normal;
+  }
+  @font-face {
+	  font-family: 'Montserrat-Medium';
+	  src: url('fonts/Montserrat-Medium.eot');
+	  src: url('fonts/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+		  url('fonts/Montserrat-Medium.ttf') format('truetype'),
+		  url('fonts/Montserrat-Medium.svg#Montserrat-Medium') format('svg'),
+		  url('fonts/Montserrat-Medium.woff2') format('woff2'),
+		  url('fonts/Montserrat-Medium.woff') format('woff');
+	  font-weight: normal;
+	  font-style: normal;
+  }
+  @font-face {
+	  font-family: 'Montserrat-Light';
+	  src: url('fonts/Montserrat-Light.eot');
+		  src: url('fonts/Montserrat-Light.eot?#iefix') format('embedded-opentype'),
+		  url('fonts/Montserrat-Light.svg#Montserrat-Light') format('svg'),
+		  url('fonts/Montserrat-Light.ttf') format('truetype'),
+		  url('fonts/Montserrat-Light.woff2') format('woff2'),
+		  url('fonts/Montserrat-Light.woff') format('woff');
+	  font-weight: normal;
+	  font-style: normal;
+  }
+  @font-face {
+	font-family: 'nucleo-outline';
+	src: url('fonts/nucleo-outline.eot');
+	src: url('fonts/nucleo-outline.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/nucleo-outline.svg#nucleo-outline') format('svg'),
+		 url('fonts/nucleo-outline.ttf') format('truetype'),
+		 url('fonts/nucleo-outline.woff') format('woff'),
+		 url('fonts/nucleo-outline.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+  }
+  
